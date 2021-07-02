@@ -1,3 +1,6 @@
+#Create a program that asks the user for a number and then prints out 
+#a list of all the divisors of that number. 
+
 num = int(input("give me a number to check: "))
 check = int(input("give me a number to divide by: "))
 
